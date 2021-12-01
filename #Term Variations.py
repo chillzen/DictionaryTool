@@ -42,6 +42,7 @@ def Complexity_3(Text_Lines):
         acceptor @ получатель сообщения
         acceptor @ резонансный контур
     """
+
 def Complexity_4(Text_Lines):
     """ EN = RU + ()
         Examples:
@@ -62,6 +63,7 @@ def Complexity_5(Text_Lines):
         access matrix @ матрица права доступа
         access number @ номер доступа
     """
+    
 def Complexity_6(Text_Lines):
     """
         Examples:
